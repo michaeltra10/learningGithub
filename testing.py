@@ -54,4 +54,6 @@ def splitTest():
     seperated = move.split()
     test = seperated[1][0]
     print(test)
-
+def github():
+    print("github is going well")
+github()
