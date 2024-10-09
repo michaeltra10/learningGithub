@@ -57,3 +57,4 @@ def splitTest():
 def github():
     print("github is going well")
     print("github is still going well")
+    print("attempt to pull from github")
